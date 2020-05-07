@@ -37,6 +37,7 @@
 - [GMU ECE 699 Software/Hardware Co-design S15](https://ece.gmu.edu/coursewebpages/ECE/ECE699_SW_HW/S15/)
 - [CMU ECE 18-643](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_course_schedule_fall_2017)
 - [Cornell ECE5775 from Prof. Zhiru Zhang](http://www.csl.cornell.edu/courses/ece5775/)
+- [Good notes about HLS](https://spcl.inf.ethz.ch/Teaching/2019-sc/)
 
 ### Courses
 - [Online: Real Digital](https://www.realdigital.org/)
