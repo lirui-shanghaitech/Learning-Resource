@@ -60,10 +60,10 @@
   
  ## C/C++/Linux Resources
  ### CMake 
- - [Best practice] (https://www.hahack.com/codes/cmake/)
+ - [Best practice](https://www.hahack.com/codes/cmake/)
  
  ### C/C++
  
  ### Linux
- - [Book: How linux work] (http://cn.epubee.com/books/?s=KTMlMjQlRTclQjIlQkUlRTklODAlOUFMaW51eCVFRiVCQyU4OCVFNyVBQyVBQzIlRTclODklODglRUYlQkMlODklMjAoJUU1JTlCJUJFJUU3JTgxJUI1JUU3JUE4JThCJUU1JUJBJThGJUU4JUFFJUJFJUU4JUFFJUExJUU0JUI4JTlCJUU0JUI5JUE2JTIz&action=)
+ - [Book: How linux work](http://cn.epubee.com/books/?s=KTMlMjQlRTclQjIlQkUlRTklODAlOUFMaW51eCVFRiVCQyU4OCVFNyVBQyVBQzIlRTclODklODglRUYlQkMlODklMjAoJUU1JTlCJUJFJUU3JTgxJUI1JUU3JUE4JThCJUU1JUJBJThGJUU4JUFFJUJFJUU4JUFFJUExJUU0JUI4JTlCJUU0JUI5JUE2JTIz&action=)
  
