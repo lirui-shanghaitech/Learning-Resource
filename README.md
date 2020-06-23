@@ -58,3 +58,12 @@
 - [FPGAs for Software Programmers](https://www.springer.com/us/book/9783319264066)
 - [Data Processing on FPGAs, Synthesis Lectures on Data Management](https://www.morganclaypool.com/doi/abs/10.2200/S00514ED1V01Y201306DTM035)
   
+ ## C/C++/Linux Resources
+ ### CMake 
+ - [Best practice] (https://www.hahack.com/codes/cmake/)
+ 
+ ### C/C++
+ 
+ ### Linux
+ - [Book: How linux work] (http://cn.epubee.com/books/?s=KTMlMjQlRTclQjIlQkUlRTklODAlOUFMaW51eCVFRiVCQyU4OCVFNyVBQyVBQzIlRTclODklODglRUYlQkMlODklMjAoJUU1JTlCJUJFJUU3JTgxJUI1JUU3JUE4JThCJUU1JUJBJThGJUU4JUFFJUJFJUU4JUFFJUExJUU0JUI4JTlCJUU0JUI5JUE2JTIz&action=)
+ 
